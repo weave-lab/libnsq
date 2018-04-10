@@ -1,3 +1,13 @@
+[![pipeline status](https://gitlab.getweave.com/weave-lab/comm/libnsq/badges/master/pipeline.svg)](https://gitlab.getweave.com/weave-lab/comm/libnsq/commits/master)
+[![coverage report](https://gitlab.getweave.com/weave-lab/comm/libnsq/badges/master/coverage.svg)](https://gitlab.getweave.com/weave-lab/comm/libnsq/commits/master)
+
+## Installation
+```bash
+go get weavelab.xyz/libnsq
+```
+
+For more information on `weavelab.xyz`, see the projects [readme](https://gitlab.getweave.com/weave-lab/ops/xyz/blob/master/README.md).
+
 ## libnsq
 
 async C client library for [NSQ][1]
